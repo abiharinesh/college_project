@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380886867063",
+    "project_id": "easc-attendance-app",
+    "storage_bucket": "easc-attendance-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380886867063:android:ef17316448f8548c22ba72",
+        "android_client_info": {
+          "package_name": "com.example.attendance_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380886867063-duoag7g9altt9aggqv794ouogudpj05u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs1SO6tS8knrqoZM59P2YiOnhIkU8_Svk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380886867063-duoag7g9altt9aggqv794ouogudpj05u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
