@@ -10,7 +10,7 @@ class LoginScreen extends StatefulWidget {
 class _LoginScreenState extends State<LoginScreen> {
 double screenHeight =0;
 double screenWidth =0;
-Color primary = Color.fromARGB(255, 201, 92, 20);;
+Color primary =const Color(0x00ffffff);
   @override
   Widget build(BuildContext context) {
     screenHeight = MediaQuery.of (context).size.height;
